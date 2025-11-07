@@ -1,4 +1,4 @@
-#Retail Customer Retention Analytics (TESCO)
+# Retail Customer Retention Analytics (TESCO)
 
 Tools: Power BI
 Objective: Analyze customer churn, retention, and lifetime value to enhance loyalty and business performance.
